@@ -1,0 +1,67 @@
+#drupalcon {
+  background-image: url(../images/bg-left.png), url(../images/bg-right.png);
+  background-image: url(../images/bg-left.png), url(../images/bg-right.png);
+  background-position: -20px 32%, 104% 12px;
+  background-repeat: no-repeat;
+  background-size: 22% 29%, 22% 29%; }
+  @media only screen and (max-width: 639px) {
+    #drupalcon {
+      background-position: -10px 15%, 101% 70px;
+      background-size: 16% 6%, 16% 6%; } }
+  @media only screen and (max-width: 1023px) and (min-width: 640px) {
+    #drupalcon {
+      background-size: 20% 14%, 20% 14%;
+      background-position: -20px 13%, 104% 30px; } }
+  #drupalcon .drupalcon-row .drupalcon-col h1 {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 75px;
+    font-size: 60px; }
+    @media only screen and (max-width: 639px) {
+      #drupalcon .drupalcon-row .drupalcon-col h1 {
+        font-size: 28px; } }
+    @media only screen and (max-width: 1023px) and (min-width: 640px) {
+      #drupalcon .drupalcon-row .drupalcon-col h1 {
+        font-size: 36px; } }
+  #drupalcon .drupalcon-row .drupalcon-col p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    width: 608px;
+    max-width: 100%;
+    margin: 15px auto 0px auto;
+    color: #6a6868; }
+    #drupalcon .drupalcon-row .drupalcon-col p a {
+      font-style: italic;
+      color: #48addd; }
+    @media only screen and (max-width: 639px) {
+      #drupalcon .drupalcon-row .drupalcon-col p {
+        font-size: 18px; } }
+  #drupalcon .drupalcon-row .drupalcon-col .text-tagline {
+    margin-top: 0px;
+    color: #111111;
+    font-size: 26px;
+    margin-bottom: 35px;
+    font-family: 'Roboto', sans-serif; }
+  #drupalcon .drupalcon-row hr {
+    float: left;
+    width: 100%;
+    margin: 45px 0px; }
+  #drupalcon .drupalcon-row .drupalcon-icons h4 {
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 24px; }
+    @media only screen and (max-width: 1023px) {
+      #drupalcon .drupalcon-row .drupalcon-icons h4 {
+        margin-bottom: 20px; } }
+  #drupalcon .drupalcon-row .drupalcon-btn {
+    margin-top: 70px; }
+    #drupalcon .drupalcon-row .drupalcon-btn .button {
+      background: #d24354;
+      font-size: 24px;
+      padding: 15px 30px;
+      border-radius: 0px;
+      border: 2px solid #d24354;
+      min-width: 273px;
+      font-family: 'Roboto', sans-serif; }
+
+/*# sourceMappingURL=app.css.map */
